@@ -164,7 +164,7 @@ git --no-pager diff 8b5940cadeb4f1c8492f4a7f70743a2be807cf39 68a9c82e06906a5c00e
 | URL wrapper | URL შეფუთვა |
 | To throw a warning/error | გაფრთხილების/შეცდომის გამოძახება |
 
-## Не переводятся
+## არ ითარგმნება
 
 - Cookie
 - PEAR
