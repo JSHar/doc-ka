@@ -3,112 +3,112 @@
 <!-- Reviewed: yes -->
 
 <!-- Part titles used mostly in manual.xml itself -->
-<!ENTITY PHPManual         "Руководство по PHP">
-<!ENTITY Seealso           "Смотрите также">
-<!ENTITY Date              "Дата:">
-<!ENTITY GettingStarted    "Приступая к работе">
-<!ENTITY InstallAndConfigure "Установка и настройка">
-<!ENTITY Installation      "Установка">
+<!ENTITY PHPManual         "PHP-ის სახელმძღვანელო">
+<!ENTITY Seealso           "იხილეთ ასევე">
+<!ENTITY Date              "თარიღი:">
+<!ENTITY GettingStarted    "სამუშაოს დაწყება">
+<!ENTITY InstallAndConfigure "ინსტალაცია და კონფიგურაცია">
+<!ENTITY Installation      "ინსტალაცია">
 <!ENTITY LanguageReference "Справочник языка">
-<!ENTITY Features          "Отличительные особенности">
-<!ENTITY Security          "Безопасность">
-<!ENTITY FunctionReference "Справочник функций">
-<!ENTITY VariableandTypeRelatedExtensions         "Модули, относящиеся к переменным и типам">
-<!ENTITY TextProcessing                           "Обработка текста">
-<!ENTITY AffectingPHPsBehaviour                   "Изменение поведения PHP">
-<!ENTITY SessionExtensions                        "Модули для работы с сессиями">
-<!ENTITY OtherBasicExtensions                     "Другие базовые модули">
-<!ENTITY DatabaseExtensions                       "Модули для работы с базами данных">
-<!ENTITY AbstractionLayers                        "Уровни абстракции">
-<!ENTITY VendorSpecificDatabaseExtensions         "Модули для работы с базами данных отдельных производителей">
-<!ENTITY XMLManipulation                          "Обработка XML">
-<!ENTITY WebServices                              "Веб-сервисы">
-<!ENTITY CreditCardProcessing                     "Обработка кредитных карт">
-<!ENTITY MathematicalExtensions                   "Математические модули">
-<!ENTITY CryptographyExtensions                   "Криптографические модули">
-<!ENTITY HumanLanguageandCharacterEncodingSupport "Поддержка языков и кодировок">
-<!ENTITY FileSystemRelatedExtensions              "Модули для работы с файловой системой">
-<!ENTITY ProcessControlExtensions                 "Модули для управления процессами программ">
-<!ENTITY MailRelatedExtensions                    "Модули для работы с почтой">
-<!ENTITY AuthenticationServices                   "Службы аутентификации">
-<!ENTITY OtherServices                            "Другие службы">
-<!ENTITY CompressionExtensions                    "Модули для сжатия и архивации">
-<!ENTITY CalendarandEventRelatedExtensions        "Модули для работы с датой и временем">
-<!ENTITY NonTextMIMEOutput                        "Генерация нетекстовых MIME-форматов">
-<!ENTITY ImageProcessingandGeneration             "Обработка и генерация изображений">
-<!ENTITY AudioFormatsManipulation                 "Обработка аудио форматов">
-<!ENTITY CommandLineSpecificExtensions            "Модули для работы с командной строкой">
-<!ENTITY WindowsOnlyExtensions                    "Модули только для Windows">
-<!ENTITY ServerSpecificExtensions                 "Модули для работы с серверами">
-<!ENTITY SearchEngineExtensions                   "Модули для работы с поисковыми системами">
-<!ENTITY MiscExtensions                           "Различные модули">
-<!ENTITY UIExtensions                                "Модули для работы с GUI">
-<!ENTITY Appendixes        "Приложения">
-<!ENTITY PEAR              "PEAR: Репозиторий модулей и приложений PHP">
-<!ENTITY FAQ               "ЧАВО: ЧАсто задаваемые Вопросы и Ответы на них">
-<!ENTITY FAQabbrev         "ЧАВО">
-<!ENTITY Internals         "Внутреннее устройство PHP и Zend Engine">
-<!ENTITY Internals2        "Ядро PHP: Руководство хакера">
-<!ENTITY ZendAPI           "Zend API: Взламываем ядро PHP">
-<!ENTITY IndexListing      "Алфавитный список">
-<!ENTITY FunctionListing   "Список функций и методов">
-<!ENTITY FunctionListingDescription   "Список всех функций и методов в руководстве">
-<!ENTITY ExampleListing    "Список примеров">
-<!ENTITY ExampleListingDescription   "Список всех примеров в руководстве">
-<!ENTITY ChangelogListingTitle "Список изменений">
-<!ENTITY ChangelogListingDescription "Следующие изменения были произведены с классами/функциями/методами данного модуля.">
-<!ENTITY ChangelogListingBundledDescription "Следующие изменения были произведены с функциями встроенных модулей.">
-<!ENTITY CHMEdition        "Руководство в формате HTML Help">
-<!ENTITY ReservedConstants "Предопределённые константы">
-<!ENTITY MissingStuff      "Что отсутствует в этом руководстве">
-<!ENTITY AndSeveralOthers  "И некоторые другие">
-<!ENTITY Version           "Версия">
-<!ENTITY Description       "Описание">
-<!ENTITY Changeable        "Место изменения">
-<!ENTITY ConfigureOptions  "Опции настройки">
-<!ENTITY Default           "По умолчанию">
-<!ENTITY Definition        "Определение">
-<!ENTITY Functions         "Функции">
-<!ENTITY Name              "Имя">
-<!ENTITY Alias             "Псевдоним">
-<!ENTITY Type              "Тип">
-<!ENTITY Changelog         "Список изменений">
-<!ENTITY Methods           "Методы">
-<!ENTITY InheritedMethods  "Наследуемые методы">
-<!ENTITY InheritedProperties "Наследуемые свойства">
-<!ENTITY Properties        "Свойства">
-<!ENTITY InheritedConstants "Наследуемые константы">
-<!ENTITY Constants         "Константы">
-<!ENTITY NotAvailable      "Недоступно">
+<!ENTITY Features          "გამორჩეული თვისებები">
+<!ENTITY Security          "უსაფრთხოება">
+<!ENTITY FunctionReference "ფუნქციის გზამკვლევი">
+<!ENTITY VariableandTypeRelatedExtensions         "მოდული, რომელიც დაკავშირებულია ცვლადებთან და ტიპებთან">
+<!ENTITY TextProcessing                           "ტექსტის დამუშავება">
+<!ENTITY AffectingPHPsBehaviour                   "PHP ქცევის შეცვლა">
+<!ENTITY SessionExtensions                        "მოდულები სესიებთან მუშაობისთვის">
+<!ENTITY OtherBasicExtensions                     "სხვა საბაზისო მოდული">
+<!ENTITY DatabaseExtensions                       "მონაცემთა ბაზებთან მუშაობის მოდულები">
+<!ENTITY AbstractionLayers                        "აბსტრაქციის დონეები">
+<!ENTITY VendorSpecificDatabaseExtensions         "ინდივიდუალური მწარმოებლების მონაცემთა ბაზებთან მუშაობის მოდულები">
+<!ENTITY XMLManipulation                          "XML დამუშავება">
+<!ENTITY WebServices                              "ვებ სერვისები">
+<!ENTITY CreditCardProcessing                     "საკრედიტო ბარათის დამუშავება">
+<!ENTITY MathematicalExtensions                   "მათემატიკური მოდულები">
+<!ENTITY CryptographyExtensions                   "კრიპტოგრაფიული მოდულები">
+<!ENTITY HumanLanguageandCharacterEncodingSupport "ენების და კოდირების მხარდაჭერა">
+<!ENTITY FileSystemRelatedExtensions              "ფაილურ სისტემასთან მუშაობის მოდულები">
+<!ENTITY ProcessControlExtensions                 "პროგრამული პროცესების მართვის მოდულები">
+<!ENTITY MailRelatedExtensions                    "მოდულები ფოსტით მუშაობისთვის">
+<!ENTITY AuthenticationServices                   "ავთენტიფიკაციის სერვისები">
+<!ENTITY OtherServices                            "სხვა სერვისები">
+<!ENTITY CompressionExtensions                    "მოდულები შეკუმშვისა და დაარქივებისთვის">
+<!ENTITY CalendarandEventRelatedExtensions        "თარიღთან და დროსთან მუშაობის მოდულები">
+<!ENTITY NonTextMIMEOutput                        "არატექსტური MIME ფორმატების გენერირება">
+<!ENTITY ImageProcessingandGeneration             "სურათის დამუშავება და გენერირება">
+<!ENTITY AudioFormatsManipulation                 "აუდიო ფორმატების დამუშავება">
+<!ENTITY CommandLineSpecificExtensions            "ბრძანებათა სტრიქონთან მუსაობის მოდულები">
+<!ENTITY WindowsOnlyExtensions                    "მოდულები მხოლოდ Windows-ისთვის">
+<!ENTITY ServerSpecificExtensions                 "მოდულები სერვერებთან მუშაობისთვის">
+<!ENTITY SearchEngineExtensions                   "საძიებო სისტემებთან მუშაობის მოდულები">
+<!ENTITY MiscExtensions                           "სხვადასხვა მოდული">
+<!ENTITY UIExtensions                             "მოდულები GUI-თან მუშაობისთვის">
+<!ENTITY Appendixes        "აპლიკაცია">
+<!ENTITY PEAR              "PEAR: PHP მოდულების და აპლიკაციების საცავი">
+<!ENTITY FAQ               "ხდკპ: ხშირად დასმული კითხვები და პასუხები">
+<!ENTITY FAQabbrev         "ხდკპ">
+<!ENTITY Internals         "PHP და Zend Engine შიდა მოწყობილობები">
+<!ENTITY Internals2        "PHP-ის ძრავი: ჰაკერების გზამკვლევი">
+<!ENTITY ZendAPI           "Zend API: PHP ბირთვის გატეხვა">
+<!ENTITY IndexListing      "ანბანური სია">
+<!ENTITY FunctionListing   "ფუნქციებისა და მეთოდების ჩამონათვალი">
+<!ENTITY FunctionListingDescription   "ყველა ფუნქციისა და მეთოდის ჩამონათვალი სახელმძღვანელოში">
+<!ENTITY ExampleListing    "მაგალითების სია">
+<!ENTITY ExampleListingDescription   "ყველა მაგალითის ჩამონათვალი სახელმძღვანელოში">
+<!ENTITY ChangelogListingTitle "ცვლილებების სია">
+<!ENTITY ChangelogListingDescription "შემდეგი ცვლილებები განხორციელდა ამ მოდულის კლასებში/ფუნქციებში/მეთოდებში.">
+<!ENTITY ChangelogListingBundledDescription "ჩაშენებული მოდულების ფუნქციებში შემდეგი ცვლილებები განხორციელდა.">
+<!ENTITY CHMEdition        "სახელმძღვანელო HTML Help ფორმატში">
+<!ENTITY ReservedConstants "წინასწარ განსაზღვრული კონსტანტები">
+<!ENTITY MissingStuff      "რა აკლია ამ სახელმძღვანელოს">
+<!ENTITY AndSeveralOthers  "და ზოგიერთი სხვა">
+<!ENTITY Version           "ვერსია">
+<!ENTITY Description       "აღწერა">
+<!ENTITY Changeable        "ცვლილების ადგილი">
+<!ENTITY ConfigureOptions  "პერსონალიზაციის პარამეტრები">
+<!ENTITY Default           "ნაგულისხმევი">
+<!ENTITY Definition        "განმარტება">
+<!ENTITY Functions         "ფუნქციები">
+<!ENTITY Name              "სახელი">
+<!ENTITY Alias             "მეტსახელი">
+<!ENTITY Type              "ტიპი">
+<!ENTITY Changelog         "ცვლილებების სია">
+<!ENTITY Methods           "მეთოდები">
+<!ENTITY InheritedMethods  "მემკვიდრეობითი მეთოდები">
+<!ENTITY InheritedProperties "მემკვიდრეობითი თვისებები">
+<!ENTITY Properties        "თვისებები">
+<!ENTITY InheritedConstants "მემკვიდრეობითი კონსტანტები">
+<!ENTITY Constants         "კონსტანტები">
+<!ENTITY NotAvailable      "Მიუწვდომელია">
 
 <!-- These are used in reference/$extname/reference.xml and other
 supplemental files to mark section titles -->
-<!ENTITY reftitle.changelog    '<title xmlns="http://docbook.org/ns/docbook">Список изменений</title>'>
-<!ENTITY reftitle.classes      '<title xmlns="http://docbook.org/ns/docbook">Предопределённые классы</title>'>
-<!ENTITY reftitle.classsynopsis '<title xmlns="http://docbook.org/ns/docbook">Обзор классов</title>'>
-<!ENTITY reftitle.constants    '<title xmlns="http://docbook.org/ns/docbook">Предопределённые константы</title>'>
-<!ENTITY reftitle.constructor  '<title xmlns="http://docbook.org/ns/docbook">Конструктор</title>'>
-<!ENTITY reftitle.description  '<title xmlns="http://docbook.org/ns/docbook">Описание</title>'>
-<!ENTITY reftitle.encoding     '<title xmlns="http://docbook.org/ns/docbook">Кодировка</title>'>
-<!ENTITY reftitle.examples     '<title xmlns="http://docbook.org/ns/docbook">Примеры</title>'>
-<!ENTITY reftitle.exceptions   '<title xmlns="http://docbook.org/ns/docbook">Исключения</title>'>
+<!ENTITY reftitle.changelog    '<title xmlns="http://docbook.org/ns/docbook">ცვლილებების სია</title>'>
+<!ENTITY reftitle.classes      '<title xmlns="http://docbook.org/ns/docbook">წინასწარ განსაზღვრული კლასები</title>'>
+<!ENTITY reftitle.classsynopsis '<title xmlns="http://docbook.org/ns/docbook">კლასის მიმოხილვა</title>'>
+<!ENTITY reftitle.constants    '<title xmlns="http://docbook.org/ns/docbook">წინასწარ განსაზღვრული კონსტანტები</title>'>
+<!ENTITY reftitle.constructor  '<title xmlns="http://docbook.org/ns/docbook">კონსტრუქტორი</title>'>
+<!ENTITY reftitle.description  '<title xmlns="http://docbook.org/ns/docbook">აღწერა</title>'>
+<!ENTITY reftitle.encoding     '<title xmlns="http://docbook.org/ns/docbook">კოდირება</title>'>
+<!ENTITY reftitle.examples     '<title xmlns="http://docbook.org/ns/docbook">მაგალითები</title>'>
+<!ENTITY reftitle.exceptions   '<title xmlns="http://docbook.org/ns/docbook">გამონაკლისი</title>'>
 <!ENTITY reftitle.errors       '<title xmlns="http://docbook.org/ns/docbook">Ошибки</title>'>
-<!ENTITY reftitle.faq          '<title xmlns="http://docbook.org/ns/docbook">Часто задаваемые вопросы</title>'>
-<!ENTITY reftitle.install      '<title xmlns="http://docbook.org/ns/docbook">Установка</title>'>
-<!ENTITY reftitle.intro        '<title xmlns="http://docbook.org/ns/docbook">Введение</title>'>
-<!ENTITY reftitle.indices      '<title xmlns="http://docbook.org/ns/docbook">Индексы</title>'>
-<!ENTITY reftitle.interfacesynopsis '<title xmlns="http://docbook.org/ns/docbook">Обзор интерфейсов</title>'>
-<!ENTITY reftitle.methods      '<title xmlns="http://docbook.org/ns/docbook">Методы</title>'>
-<!ENTITY reftitle.mysqlnd      '<title xmlns="http://docbook.org/ns/docbook">Только для MySQL Native Driver</title>'>
-<!ENTITY reftitle.notes        '<title xmlns="http://docbook.org/ns/docbook">Примечания</title>'>
-<!ENTITY reftitle.parameters   '<title xmlns="http://docbook.org/ns/docbook">Список параметров</title>'>
-<!ENTITY reftitle.options      '<title xmlns="http://docbook.org/ns/docbook">Опции</title>'>
-<!ENTITY reftitle.properties   '<title xmlns="http://docbook.org/ns/docbook">Свойства</title>'>
-<!ENTITY reftitle.required     '<title xmlns="http://docbook.org/ns/docbook">Требования</title>'>
-<!ENTITY reftitle.resources    '<title xmlns="http://docbook.org/ns/docbook">Типы ресурсов</title>'>
-<!ENTITY reftitle.runtime      '<title xmlns="http://docbook.org/ns/docbook">Настройка во время выполнения</title>'>
-<!ENTITY reftitle.returnvalues '<title xmlns="http://docbook.org/ns/docbook">Возвращаемые значения</title>'>
-<!ENTITY reftitle.seealso      '<title xmlns="http://docbook.org/ns/docbook">Смотрите также</title>'>
-<!ENTITY reftitle.setup        '<title xmlns="http://docbook.org/ns/docbook">Установка и настройка</title>'>
-<!ENTITY reftitle.unicode      '<title xmlns="http://docbook.org/ns/docbook">Юникод</title>'>
-<!ENTITY reftitle.usage        '<title xmlns="http://docbook.org/ns/docbook">Использование</title>'>
+<!ENTITY reftitle.faq          '<title xmlns="http://docbook.org/ns/docbook">ხშირად დასმული კითხვები</title>'>
+<!ENTITY reftitle.install      '<title xmlns="http://docbook.org/ns/docbook">ინსტალაცია</title>'>
+<!ENTITY reftitle.intro        '<title xmlns="http://docbook.org/ns/docbook">შესავალი</title>'>
+<!ENTITY reftitle.indices      '<title xmlns="http://docbook.org/ns/docbook">ინდექსები</title>'>
+<!ENTITY reftitle.interfacesynopsis '<title xmlns="http://docbook.org/ns/docbook">ინტერფეისის მიმოხილვა</title>'>
+<!ENTITY reftitle.methods      '<title xmlns="http://docbook.org/ns/docbook">მეთოდები</title>'>
+<!ENTITY reftitle.mysqlnd      '<title xmlns="http://docbook.org/ns/docbook">მხოლოდ MySQL Native Driver-თვის</title>'>
+<!ENTITY reftitle.notes        '<title xmlns="http://docbook.org/ns/docbook">შენიშვნები</title>'>
+<!ENTITY reftitle.parameters   '<title xmlns="http://docbook.org/ns/docbook">პარამეტრების სია</title>'>
+<!ENTITY reftitle.options      '<title xmlns="http://docbook.org/ns/docbook">Პარამეტრები</title>'>
+<!ENTITY reftitle.properties   '<title xmlns="http://docbook.org/ns/docbook">თვისებები</title>'>
+<!ENTITY reftitle.required     '<title xmlns="http://docbook.org/ns/docbook">მოთხოვნები</title>'>
+<!ENTITY reftitle.resources    '<title xmlns="http://docbook.org/ns/docbook">რესურსების ტიპები</title>'>
+<!ENTITY reftitle.runtime      '<title xmlns="http://docbook.org/ns/docbook">კონფიგურაცია შესრულების დროს</title>'>
+<!ENTITY reftitle.returnvalues '<title xmlns="http://docbook.org/ns/docbook">მნიშვნელობის დაბრუნება</title>'>
+<!ENTITY reftitle.seealso      '<title xmlns="http://docbook.org/ns/docbook">იხილეთ ასევე</title>'>
+<!ENTITY reftitle.setup        '<title xmlns="http://docbook.org/ns/docbook">ინსტალაცია და კონფიგურაცია</title>'>
+<!ENTITY reftitle.unicode      '<title xmlns="http://docbook.org/ns/docbook">უნიქოდი</title>'>
+<!ENTITY reftitle.usage        '<title xmlns="http://docbook.org/ns/docbook">გამოყენება</title>'>
