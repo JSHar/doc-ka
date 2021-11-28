@@ -12,67 +12,7 @@
   <authorgroup xml:id="translators">
    <author>
     <personname>
-     <firstname>Алексей</firstname><surname>Шеин</surname> <!-- shein -->
-    </personname>
-   </author>
-   <author>
-    <personname>
-     <firstname>Андрей</firstname><surname>Безруков</surname> <!-- aur -->
-    </personname>
-   </author>
-   <author>
-    <personname>
-     <firstname>Максим</firstname><surname>Чабан</surname> <!-- mch -->
-    </personname>
-   </author>
-   <author>
-    <personname>
-     <firstname>Александр</firstname><surname>Москалёв</surname> <!-- irker -->
-    </personname>
-   </author>
-   <author>
-    <personname>
-     <firstname>Борис</firstname><surname>Клименко</surname> <!-- das -->
-    </personname>
-   </author>
-   <author>
-    <personname>
-     <firstname>Дмитрий</firstname><surname>Винярчук</surname> <!-- tmn -->
-    </personname>
-   </author>
-   <author>
-    <personname>
-     <firstname>Борис</firstname><surname>Флейтлих</surname> <!-- bfl -->
-    </personname>
-   </author>
-   <author>
-    <personname>
-     <firstname>Алексей</firstname><surname>Егоров</surname> <!-- countzero -->
-    </personname>
-   </author>
-   <author>
-    <personname>
-     <firstname>Юрий</firstname><surname>Бабиков</surname> <!-- alien -->
-    </personname>
-   </author>
-   <author>
-    <personname>
-     <firstname>Михаил</firstname><surname>Баранов</surname> <!-- northcat -->
-    </personname>
-   </author>
-   <author>
-    <personname>
-     <firstname>Андрей</firstname><surname>Громов</surname> <!-- rjhdby -->
-    </personname>
-   </author>
-   <author>
-    <personname>
-     <firstname>Алексей</firstname><surname>Пыльцын</surname> <!-- lex -->
-    </personname>
-   </author>
-   <author>
-    <personname>
-     <firstname>Сергей</firstname><surname>Пантелеев</surname> <!-- sergey -->
+     <firstname>ჯანო</firstname><surname>შარანგია</surname> <!-- shein -->
     </personname>
    </author>
 
@@ -89,26 +29,24 @@
 
   <copyright>
    <year>1997-<?dbtimestamp format="Y"?></year>
-   <holder>Группа документирования PHP</holder>
+   <holder>PHP-ის დოკუმენტაციის გუნდი</holder>
   </copyright>
 
   <legalnotice xml:id="copyright" xmlns:xlink="http://www.w3.org/1999/xlink">
-   <info><title>Авторские права</title></info>
+   <info><title>საავტორო უფლება</title></info>
    <simpara>
-    Авторские права © 1997 - <?dbtimestamp format="Y"?> принадлежат группе документирования PHP.
-    Эти материалы могут быть распространены только на условиях
-    и соглашениях, установленных в лицензии Creative Commons Attribution версии 3.0
-    или более поздней.
-    Копия лицензии <link linkend="cc.license">Creative Commons Attribution 3.0</link>
-    распространяется вместе с руководством. Последняя на данный момент версия
-    доступна по адресу <link xlink:href="&url.cc.by;">&url.cc.by;</link>.
+    საავტორო უფლება © 1997 - <?dbtimestamp format="Y"?> ეკუთვნის PHP-ის დოკუმენტაციის გუნდს.
+    ეს მასალები შეიძლება გავრცელედეს მხოლოდ შემდეგი პირობებთა და შეთანხმებებით, 
+    რომელიც შედგენილია Creative Commons Attribution ვერსია 3.0 ან უფრო ახალი ლიცენზიით.
+    ლიცენზიის ასლი <link linkend="cc.license">Creative Commons Attribution 3.0</link>
+    ვრცელდება სახელმძღვანელოსთან ერთად. უახლესი ვერსია ამჟამად ხელმისაწვდომია ამ მისამართზე <link xlink:href="&url.cc.by;">&url.cc.by;</link>.
    </simpara>
    <simpara>
-    Если вы заинтересованы в распространении или публикации данного документа
-    полностью или частично, с изменениями или без, и у вас есть вопросы,
-    вы можете связаться с владельцами авторского права по адресу <link
+    თუ თქვენ დაინტერესებული ხართ ამ დოკუმენტის მთლიანად ან ნაწილობრივ გავრცელებით 
+    ან გამოქვეყნებით, ცვლილებებით ან მის გარეშე, და თქვენ გაქვთ შეკითხვები,
+    შეგიძლიათ დაუკავშირდეთ საავტორო უფლებების მფლობელებს ამ მისამართზე <link
      xlink:href="mailto:&email.php.doc.license;">&email.php.doc.license;</link>.
-    Помните, что это адрес публичного списка рассылки.
+    გახსოვდეთ, რომ ეს არის საჯარო დაგზავნის სიის მისამართი.
    </simpara>
   </legalnotice>
 
